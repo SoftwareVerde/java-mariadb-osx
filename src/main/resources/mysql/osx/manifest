@@ -1,0 +1,110 @@
+/mysql/osx/init.sh x
+/mysql/osx/run.sh x
+/mysql/osx/connect.sh x
+/mysql/osx/.version
+/mysql/osx/base/bin/resolveip x
+/mysql/osx/base/bin/mysqld x
+/mysql/osx/base/bin/mysql x
+/mysql/osx/base/extra/my_print_defaults x
+/mysql/osx/base/scripts/make_binary_distribution x
+/mysql/osx/base/scripts/mariadb-secure-installation x
+/mysql/osx/base/scripts/wsrep_sst_mariabackup x
+/mysql/osx/base/scripts/mysqlaccess.conf
+/mysql/osx/base/scripts/mariadb-install-db x
+/mysql/osx/base/scripts/mariadb-access x
+/mysql/osx/base/scripts/mysql_install_db x
+/mysql/osx/base/scripts/dheadgen.pl
+/mysql/osx/base/scripts/mysqldumpslow x
+/mysql/osx/base/scripts/mysql_config x
+/mysql/osx/base/scripts/mariadb-service-convert x
+/mysql/osx/base/scripts/mysqld_multi x
+/mysql/osx/base/scripts/mytop x
+/mysql/osx/base/scripts/wsrep_sst_rsync x
+/mysql/osx/base/scripts/mysql_config.pl
+/mysql/osx/base/scripts/wsrep_sst_common
+/mysql/osx/base/scripts/mysql_find_rows x
+/mysql/osx/base/scripts/mysql_fix_extensions x
+/mysql/osx/base/scripts/maria_add_gis_sp.sql.in
+/mysql/osx/base/scripts/mariadb-dumpslow x
+/mysql/osx/base/scripts/mysqlaccess x
+/mysql/osx/base/scripts/wsrep_sst_rsync_wan x
+/mysql/osx/base/scripts/mariadb-find-rows x
+/mysql/osx/base/scripts/wsrep_sst_mysqldump x
+/mysql/osx/base/scripts/mysql_secure_installation x
+/mysql/osx/base/scripts/mariadb-setpermission x
+/mysql/osx/base/scripts/mariadb-fix-extensions x
+/mysql/osx/base/scripts/mysql_config.pl.in
+/mysql/osx/base/scripts/mysql_convert_table_format x
+/mysql/osx/base/scripts/mariadbd-multi x
+/mysql/osx/base/scripts/comp_sql x
+/mysql/osx/base/scripts/mariadb-hotcopy x
+/mysql/osx/base/scripts/mariadb-convert-table-format x
+/mysql/osx/base/scripts/msql2mysql x
+/mysql/osx/base/scripts/mysqlhotcopy x
+/mysql/osx/base/scripts/mysql_setpermission x
+/mysql/osx/base/scripts/mysqld_safe x
+/mysql/osx/base/scripts/mariadbd-safe x
+/mysql/osx/base/share/bulgarian/errmsg.sys
+/mysql/osx/base/share/dutch/errmsg.sys
+/mysql/osx/base/share/korean/errmsg.sys
+/mysql/osx/base/share/czech/errmsg.sys
+/mysql/osx/base/share/serbian/errmsg.sys
+/mysql/osx/base/share/hindi/errmsg.sys
+/mysql/osx/base/share/japanese/errmsg.sys
+/mysql/osx/base/share/charsets/cp866.xml
+/mysql/osx/base/share/charsets/macroman.xml
+/mysql/osx/base/share/charsets/Index.xml
+/mysql/osx/base/share/charsets/swe7.xml
+/mysql/osx/base/share/charsets/geostd8.xml
+/mysql/osx/base/share/charsets/cp1250.xml
+/mysql/osx/base/share/charsets/cp1251.xml
+/mysql/osx/base/share/charsets/keybcs2.xml
+/mysql/osx/base/share/charsets/hp8.xml
+/mysql/osx/base/share/charsets/cp1256.xml
+/mysql/osx/base/share/charsets/cp1257.xml
+/mysql/osx/base/share/charsets/README
+/mysql/osx/base/share/charsets/hebrew.xml
+/mysql/osx/base/share/charsets/greek.xml
+/mysql/osx/base/share/charsets/ascii.xml
+/mysql/osx/base/share/charsets/macce.xml
+/mysql/osx/base/share/charsets/dec8.xml
+/mysql/osx/base/share/charsets/latin2.xml
+/mysql/osx/base/share/charsets/cp850.xml
+/mysql/osx/base/share/charsets/koi8u.xml
+/mysql/osx/base/share/charsets/latin1.xml
+/mysql/osx/base/share/charsets/cp852.xml
+/mysql/osx/base/share/charsets/languages.html
+/mysql/osx/base/share/charsets/latin5.xml
+/mysql/osx/base/share/charsets/latin7.xml
+/mysql/osx/base/share/charsets/armscii8.xml
+/mysql/osx/base/share/charsets/koi8r.xml
+/mysql/osx/base/share/german/errmsg.sys
+/mysql/osx/base/share/estonian/errmsg.sys
+/mysql/osx/base/share/hungarian/errmsg.sys
+/mysql/osx/base/share/slovak/errmsg.sys
+/mysql/osx/base/share/romanian/errmsg.sys
+/mysql/osx/base/share/norwegian-ny/errmsg.sys
+/mysql/osx/base/share/russian/errmsg.sys
+/mysql/osx/base/share/italian/errmsg.sys
+/mysql/osx/base/share/english/errmsg.sys
+/mysql/osx/base/share/greek/errmsg.sys
+/mysql/osx/base/share/norwegian/errmsg.sys
+/mysql/osx/base/share/errmsg-utf8.txt
+/mysql/osx/base/share/portuguese/errmsg.sys
+/mysql/osx/base/share/danish/errmsg.sys
+/mysql/osx/base/share/polish/errmsg.sys
+/mysql/osx/base/share/mysql/mysql_performance_tables.sql
+/mysql/osx/base/share/mysql/maria_add_gis_sp.sql
+/mysql/osx/base/share/mysql/mysql_fix_privilege_tables.sql
+/mysql/osx/base/share/mysql/maria_add_gis_sp_bootstrap.sql
+/mysql/osx/base/share/mysql/fill_help_tables.sql
+/mysql/osx/base/share/mysql/mysql_system_tables.sql
+/mysql/osx/base/share/mysql/mysql_to_mariadb.sql
+/mysql/osx/base/share/mysql/mysql_system_tables_fix.sql
+/mysql/osx/base/share/mysql/mysql_system_tables_data.sql
+/mysql/osx/base/share/mysql/mysql_test_data_timezone.sql
+/mysql/osx/base/share/mysql/mysql_test_db.sql
+/mysql/osx/base/share/french/errmsg.sys
+/mysql/osx/base/share/swedish/errmsg.sys
+/mysql/osx/base/share/spanish/errmsg.sys
+/mysql/osx/base/share/ukrainian/errmsg.sys
