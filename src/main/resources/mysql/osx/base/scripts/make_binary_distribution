@@ -1,1 +1,0 @@
-cd /Users/green/development/mariadb/mariadb-10.5.8 && '/usr/local/Cellar/cmake/3.19.3/bin/cpack' -G TGZ --config CPackConfig.cmake
