@@ -248,9 +248,11 @@ basic_single_escape () {
 make_config() {
     echo "# mysql_secure_installation config file" >$config
     echo "[mysql]" >>$config
-    echo "user=root" >>$config
-    esc_pass=`basic_single_escape "$rootpass"`
-    echo "password='$esc_pass'" >>$config
+    if [ ! -z "$rootpass" ]; then
+        echo "user=root" >>$config
+        esc_pass=`basic_single_escape "$rootpass"`
+        echo "password='$esc_pass'" >>$config
+    fi
     #sed 's,^,> ,' < $config  # Debugging
 
     if test -n "$defaults_file"
