@@ -19,6 +19,11 @@ cd "$1"
 datadir=$(pwd)
 cd -
 
+port="$2"
+if [[ -z "${port}" ]]; then
+    port=3306
+fi
+
 echo -n "New root password: "
 read -s password
 
@@ -38,7 +43,7 @@ cd "${SCRIPT_DIR}"
 
 ./base/scripts/mysql_install_db --basedir=${SCRIPT_DIR}/base --datadir=${datadir}
 
-./base/bin/mysqld --basedir=${SCRIPT_DIR}/base --datadir=${datadir} --socket=${sockfile} --pid-file=${pidfile} &
+./base/bin/mysqld --basedir=${SCRIPT_DIR}/base --datadir=${datadir} --socket=${sockfile} --pid-file=${pidfile} --port=${port} &
 
 sleep 1
 
