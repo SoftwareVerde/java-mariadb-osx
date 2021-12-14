@@ -47,6 +47,9 @@ cd "${SCRIPT_DIR}"
 
 sleep 1
 
+DYLD_LIBRARY_PATH="${SCRIPT_DIR}/lib";
+export DYLD_LIBRARY_PATH
+
 printf "\nn\nY\n%s\n%s\nY\nY\nY\nY\n" "${password}" "${password}" | ./base/bin/mysql_secure_installation --basedir=${SCRIPT_DIR}/base --socket=${sockfile}
 
 # Delete the Unix-Socket user.

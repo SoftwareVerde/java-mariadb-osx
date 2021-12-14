@@ -8,6 +8,9 @@ port=$1
 echo -n "Enter password: "
 read -s password
 
+DYLD_LIBRARY_PATH="${SCRIPT_DIR}/lib";
+export DYLD_LIBRARY_PATH
+
 ./base/bin/mysql_upgrade -h 127.0.0.1 -P ${port} -u root -p${password}
 
 exit 0

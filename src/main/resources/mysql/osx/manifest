@@ -129,5 +129,12 @@
 /mysql/osx/base/share/user_map.conf
 /mysql/osx/connect.sh x
 /mysql/osx/init.sh x
+/mysql/osx/lib/libgmp.10.dylib x
+/mysql/osx/lib/libgnutls.30.dylib x
+/mysql/osx/lib/libhogweed.4.dylib x
+/mysql/osx/lib/libintl.9.dylib x
+/mysql/osx/lib/libnettle.6.dylib x
+/mysql/osx/lib/libtasn1.6.dylib x
+/mysql/osx/lib/libunistring.2.dylib x
 /mysql/osx/run.sh x
 /mysql/osx/upgrade.sh x

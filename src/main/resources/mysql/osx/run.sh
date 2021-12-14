@@ -19,6 +19,9 @@ tmpdir="${datadir}/tmp"
 
 mkdir -p "${tmpdir}"
 
+DYLD_LIBRARY_PATH="${SCRIPT_DIR}/lib";
+export DYLD_LIBRARY_PATH
+
 ./base/bin/mysqld --defaults-file=${defaultsfile} --basedir=${SCRIPT_DIR}/base --datadir=${datadir} --socket=${sockfile} --tmpdir=${tmpdir} --pid-file=${pidfile} &
 
 # Wait for stdin before exiting.

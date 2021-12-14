@@ -165,6 +165,9 @@ then
     cannot_find_file mysql $basedir/bin
     exit 1
   fi
+  DYLD_LIBRARY_PATH="${basedir}/../lib";
+  export DYLD_LIBRARY_PATH
+
 else
   print_defaults="/usr/local/mysql/bin/my_print_defaults"
   mysql_command="/usr/local/mysql/bin/mysql"
