@@ -1,0 +1,199 @@
+/mysql/osx/.version
+/mysql/osx/base/COPYING
+/mysql/osx/base/CREDITS
+/mysql/osx/base/INSTALL-BINARY
+/mysql/osx/base/README-wsrep
+/mysql/osx/base/README.md
+/mysql/osx/base/THIRDPARTY
+/mysql/osx/base/bin/aria_chk x
+/mysql/osx/base/bin/aria_dump_log x
+/mysql/osx/base/bin/aria_ftdump x
+/mysql/osx/base/bin/aria_pack x
+/mysql/osx/base/bin/aria_read_log x
+/mysql/osx/base/bin/aria_s3_copy x
+/mysql/osx/base/bin/innochecksum x
+/mysql/osx/base/bin/mariadb x
+/mysql/osx/base/bin/mariadb-access x
+/mysql/osx/base/bin/mariadb-admin x
+/mysql/osx/base/bin/mariadb-backup x
+/mysql/osx/base/bin/mariadb-binlog x
+/mysql/osx/base/bin/mariadb-check x
+/mysql/osx/base/bin/mariadb-client-test x
+/mysql/osx/base/bin/mariadb-conv x
+/mysql/osx/base/bin/mariadb-convert-table-format x
+/mysql/osx/base/bin/mariadb-dump x
+/mysql/osx/base/bin/mariadb-dumpslow x
+/mysql/osx/base/bin/mariadb-find-rows x
+/mysql/osx/base/bin/mariadb-fix-extensions x
+/mysql/osx/base/bin/mariadb-hotcopy x
+/mysql/osx/base/bin/mariadb-import x
+/mysql/osx/base/bin/mariadb-ldb x
+/mysql/osx/base/bin/mariadb-plugin x
+/mysql/osx/base/bin/mariadb-secure-installation x
+/mysql/osx/base/bin/mariadb-setpermission x
+/mysql/osx/base/bin/mariadb-show x
+/mysql/osx/base/bin/mariadb-slap x
+/mysql/osx/base/bin/mariadb-test x
+/mysql/osx/base/bin/mariadb-tzinfo-to-sql x
+/mysql/osx/base/bin/mariadb-upgrade x
+/mysql/osx/base/bin/mariadb-waitpid x
+/mysql/osx/base/bin/mariadb_config x
+/mysql/osx/base/bin/mariadbd x
+/mysql/osx/base/bin/mariadbd-multi x
+/mysql/osx/base/bin/mariadbd-safe x
+/mysql/osx/base/bin/mariadbd-safe-helper x
+/mysql/osx/base/bin/mbstream x
+/mysql/osx/base/bin/msql2mysql x
+/mysql/osx/base/bin/my_print_defaults x
+/mysql/osx/base/bin/myisam_ftdump x
+/mysql/osx/base/bin/myisamchk x
+/mysql/osx/base/bin/myisamlog x
+/mysql/osx/base/bin/myisampack x
+/mysql/osx/base/bin/myrocks_hotbackup x
+/mysql/osx/base/bin/mysql_config x
+/mysql/osx/base/bin/mytop x
+/mysql/osx/base/bin/perror x
+/mysql/osx/base/bin/replace x
+/mysql/osx/base/bin/resolve_stack_dump x
+/mysql/osx/base/bin/resolveip x
+/mysql/osx/base/bin/sst_dump x
+/mysql/osx/base/bin/wsrep_sst_backup x
+/mysql/osx/base/bin/wsrep_sst_common
+/mysql/osx/base/bin/wsrep_sst_mariabackup x
+/mysql/osx/base/bin/wsrep_sst_mysqldump x
+/mysql/osx/base/bin/wsrep_sst_rsync x
+/mysql/osx/base/scripts/mariadb-install-db x
+/mysql/osx/base/share/aclocal/mysql.m4
+/mysql/osx/base/share/bulgarian/errmsg.sys
+/mysql/osx/base/share/charsets/Index.xml
+/mysql/osx/base/share/charsets/README
+/mysql/osx/base/share/charsets/armscii8.xml
+/mysql/osx/base/share/charsets/ascii.xml
+/mysql/osx/base/share/charsets/cp1250.xml
+/mysql/osx/base/share/charsets/cp1251.xml
+/mysql/osx/base/share/charsets/cp1256.xml
+/mysql/osx/base/share/charsets/cp1257.xml
+/mysql/osx/base/share/charsets/cp850.xml
+/mysql/osx/base/share/charsets/cp852.xml
+/mysql/osx/base/share/charsets/cp866.xml
+/mysql/osx/base/share/charsets/dec8.xml
+/mysql/osx/base/share/charsets/geostd8.xml
+/mysql/osx/base/share/charsets/greek.xml
+/mysql/osx/base/share/charsets/hebrew.xml
+/mysql/osx/base/share/charsets/hp8.xml
+/mysql/osx/base/share/charsets/keybcs2.xml
+/mysql/osx/base/share/charsets/koi8r.xml
+/mysql/osx/base/share/charsets/koi8u.xml
+/mysql/osx/base/share/charsets/latin1.xml
+/mysql/osx/base/share/charsets/latin2.xml
+/mysql/osx/base/share/charsets/latin5.xml
+/mysql/osx/base/share/charsets/latin7.xml
+/mysql/osx/base/share/charsets/macce.xml
+/mysql/osx/base/share/charsets/macroman.xml
+/mysql/osx/base/share/charsets/swe7.xml
+/mysql/osx/base/share/chinese/errmsg.sys
+/mysql/osx/base/share/czech/errmsg.sys
+/mysql/osx/base/share/danish/errmsg.sys
+/mysql/osx/base/share/dutch/errmsg.sys
+/mysql/osx/base/share/english/errmsg.sys
+/mysql/osx/base/share/errmsg-utf8.txt
+/mysql/osx/base/share/estonian/errmsg.sys
+/mysql/osx/base/share/fill_help_tables.sql
+/mysql/osx/base/share/french/errmsg.sys
+/mysql/osx/base/share/german/errmsg.sys
+/mysql/osx/base/share/greek/errmsg.sys
+/mysql/osx/base/share/groonga-normalizer-mysql/README.md
+/mysql/osx/base/share/groonga-normalizer-mysql/lgpl-2.0.txt
+/mysql/osx/base/share/groonga/COPYING
+/mysql/osx/base/share/groonga/README.md
+/mysql/osx/base/share/hindi/errmsg.sys
+/mysql/osx/base/share/hungarian/errmsg.sys
+/mysql/osx/base/share/italian/errmsg.sys
+/mysql/osx/base/share/japanese/errmsg.sys
+/mysql/osx/base/share/korean/errmsg.sys
+/mysql/osx/base/share/maria_add_gis_sp.sql
+/mysql/osx/base/share/maria_add_gis_sp_bootstrap.sql
+/mysql/osx/base/share/mroonga/AUTHORS
+/mysql/osx/base/share/mroonga/COPYING
+/mysql/osx/base/share/mroonga/install.sql
+/mysql/osx/base/share/mroonga/uninstall.sql
+/mysql/osx/base/share/mysql_performance_tables.sql
+/mysql/osx/base/share/mysql_sys_schema.sql
+/mysql/osx/base/share/mysql_system_tables.sql
+/mysql/osx/base/share/mysql_system_tables_data.sql
+/mysql/osx/base/share/mysql_test_data_timezone.sql
+/mysql/osx/base/share/mysql_test_db.sql
+/mysql/osx/base/share/norwegian-ny/errmsg.sys
+/mysql/osx/base/share/norwegian/errmsg.sys
+/mysql/osx/base/share/pam_user_map.so x
+/mysql/osx/base/share/polish/errmsg.sys
+/mysql/osx/base/share/portuguese/errmsg.sys
+/mysql/osx/base/share/romanian/errmsg.sys
+/mysql/osx/base/share/russian/errmsg.sys
+/mysql/osx/base/share/serbian/errmsg.sys
+/mysql/osx/base/share/slovak/errmsg.sys
+/mysql/osx/base/share/spanish/errmsg.sys
+/mysql/osx/base/share/swedish/errmsg.sys
+/mysql/osx/base/share/ukrainian/errmsg.sys
+/mysql/osx/base/share/user_map.conf
+/mysql/osx/base/support-files/binary-configure x
+/mysql/osx/base/support-files/magic
+/mysql/osx/base/support-files/mini-benchmark x
+/mysql/osx/base/support-files/mysql-log-rotate x
+/mysql/osx/base/support-files/mysql.server x
+/mysql/osx/base/support-files/mysqld_multi.server x
+/mysql/osx/base/support-files/policy/apparmor/README
+/mysql/osx/base/support-files/policy/apparmor/usr.sbin.mysqld
+/mysql/osx/base/support-files/policy/apparmor/usr.sbin.mysqld.local
+/mysql/osx/base/support-files/policy/selinux/README
+/mysql/osx/base/support-files/policy/selinux/mariadb-server.fc
+/mysql/osx/base/support-files/policy/selinux/mariadb-server.te
+/mysql/osx/base/support-files/policy/selinux/mariadb.te
+/mysql/osx/base/support-files/wsrep.cnf
+/mysql/osx/base/support-files/wsrep_notify x
+/mysql/osx/connect.sh x
+/mysql/osx/init.sh x
+/mysql/osx/lib/libffi.7.dylib
+/mysql/osx/lib/libgmp.10.dylib x
+/mysql/osx/lib/libgnutls.30.dylib x
+/mysql/osx/lib/libhogweed.6.dylib
+/mysql/osx/lib/libiconv.2.dylib
+/mysql/osx/lib/libidn2.0.dylib
+/mysql/osx/lib/libintl.8.dylib x
+/mysql/osx/lib/libnettle.8.dylib
+/mysql/osx/lib/libp11-kit.0.dylib
+/mysql/osx/lib/libtasn1.6.dylib
+/mysql/osx/lib/libunistring.2.dylib
+/mysql/osx/run.sh x
+/mysql/osx/upgrade.sh x
+/mysql/osx/base/bin/mariabackup -> mariadb-backup l
+/mysql/osx/base/bin/mariadb-config -> mariadb_config l
+/mysql/osx/base/bin/mysql -> mariadb l
+/mysql/osx/base/bin/mysql_client_test -> mariadb-client-test l
+/mysql/osx/base/bin/mysql_convert_table_format -> mariadb-convert-table-format l
+/mysql/osx/base/bin/mysql_find_rows -> mariadb-find-rows l
+/mysql/osx/base/bin/mysql_fix_extensions -> mariadb-fix-extensions l
+/mysql/osx/base/bin/mysql_ldb -> mariadb-ldb l
+/mysql/osx/base/bin/mysql_plugin -> mariadb-plugin l
+/mysql/osx/base/bin/mysql_secure_installation -> mariadb-secure-installation l
+/mysql/osx/base/bin/mysql_setpermission -> mariadb-setpermission l
+/mysql/osx/base/bin/mysql_tzinfo_to_sql -> mariadb-tzinfo-to-sql l
+/mysql/osx/base/bin/mysql_upgrade -> mariadb-upgrade l
+/mysql/osx/base/bin/mysql_waitpid -> mariadb-waitpid l
+/mysql/osx/base/bin/mysqlaccess -> mariadb-access l
+/mysql/osx/base/bin/mysqladmin -> mariadb-admin l
+/mysql/osx/base/bin/mysqlbinlog -> mariadb-binlog l
+/mysql/osx/base/bin/mysqlcheck -> mariadb-check l
+/mysql/osx/base/bin/mysqld -> mariadbd l
+/mysql/osx/base/bin/mysqld_multi -> mariadbd-multi l
+/mysql/osx/base/bin/mysqld_safe -> mariadbd-safe l
+/mysql/osx/base/bin/mysqld_safe_helper -> mariadbd-safe-helper l
+/mysql/osx/base/bin/mysqldump -> mariadb-dump l
+/mysql/osx/base/bin/mysqldumpslow -> mariadb-dumpslow l
+/mysql/osx/base/bin/mysqlhotcopy -> mariadb-hotcopy l
+/mysql/osx/base/bin/mysqlimport -> mariadb-import l
+/mysql/osx/base/bin/mysqlshow -> mariadb-show l
+/mysql/osx/base/bin/mysqlslap -> mariadb-slap l
+/mysql/osx/base/bin/mysqltest -> mariadb-test l
+/mysql/osx/base/bin/wsrep_sst_rsync_wan -> wsrep_sst_rsync l
+/mysql/osx/base/scripts/mysql_install_db -> mariadb-install-db l
